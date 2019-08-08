@@ -1,0 +1,14 @@
+Students ids:
+1. 203217898
+2. 021953237
+
+Students names:
+1. Almog Brusan
+2. Golan Hammer
+
+Operating system:
+Windows10 - 64Bit
+
+Development enviroment:
+Visual Studio 15
+

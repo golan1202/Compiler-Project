@@ -1,0 +1,47 @@
+﻿  Token.c
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\token.c(168): warning C4013: 'myenum_str' undefined; assuming extern returning int
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\token.c(168): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\token.c(187): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+  SymbolTable.c
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\symboltable.c(198): warning C4101: 'j': unreferenced local variable
+  Parser.c
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(41): warning C4013: 'myenum_str' undefined; assuming extern returning int
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(40): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(40): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'int'
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(148): warning C4033: 'Parse_VAR_DEFINITIONS' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(196): warning C4033: 'Parse_VAR_DEFINITIONS_TAG' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(256): warning C4033: 'Parse_VAR_DEFINITION' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(297): warning C4033: 'Parse_TYPE' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(344): warning C4033: 'Parse_VARIABLES_LIST' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(386): warning C4033: 'Parse_VARIABLES_LIST_TAG' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(449): warning C4033: 'Parse_VARIABLE' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(516): warning C4033: 'Parse_VARIABLE_TAG' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(724): warning C4033: 'Parse_RETURNED_TYPE' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(778): warning C4033: 'Parse_PARAM_DEFINITIONS' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(815): warning C4101: 'statements2': unreferenced local variable
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(815): warning C4101: 'statement': unreferenced local variable
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(860): warning C4101: 'statements': unreferenced local variable
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(998): warning C4033: 'Parse_STATEMENT_TAG' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1048): warning C4033: 'Parse_STATEMENT_TAG2' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1150): warning C4033: 'Parse_PARAMETERS_LIST' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1202): warning C4033: 'Parse_EXPRESSION' must return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1283): warning C4033: 'Parse_EXPRESSION_TAG' must return a value
+  Generating Code...
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(176): warning C4715: 'Parse_VAR_DEFINITIONS': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(278): warning C4715: 'Parse_VAR_DEFINITION': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(238): warning C4715: 'Parse_VAR_DEFINITIONS_TAG': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(325): warning C4715: 'Parse_TYPE': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(368): warning C4715: 'Parse_VARIABLES_LIST': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(429): warning C4715: 'Parse_VARIABLES_LIST_TAG': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(497): warning C4715: 'Parse_VARIABLE': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(567): warning C4715: 'Parse_VARIABLE_TAG': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(760): warning C4715: 'Parse_RETURNED_TYPE': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(812): warning C4715: 'Parse_PARAM_DEFINITIONS': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1029): warning C4715: 'Parse_STATEMENT_TAG': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1087): warning C4715: 'Parse_STATEMENT_TAG2': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1181): warning C4715: 'Parse_PARAMETERS_LIST': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1324): warning C4715: 'Parse_EXPRESSION_TAG': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\parser.c(1263): warning C4715: 'Parse_EXPRESSION': not all control paths return a value
+c:\users\אלמוג ברוסן\documents\visual studio 2015\projects\flexproject\flexproject\symboltable.c(216): warning C4716: 'init_element_attr': must return a value
+  FlexProject.vcxproj -> C:\Users\אלמוג ברוסן\documents\visual studio 2015\Projects\FlexProject\Debug\FlexProject.exe
+  FlexProject.vcxproj -> C:\Users\אלמוג ברוסן\documents\visual studio 2015\Projects\FlexProject\Debug\FlexProject.pdb (Full PDB)
